@@ -1,8 +1,3 @@
-const link = document.querySelector('a');
-// const link = document.getElementsByClassName('a')[0];
-
-console.log(link);
-console.dir(link);
 
 $('.submit-button').click(function(e){
     e.preventDefault();
